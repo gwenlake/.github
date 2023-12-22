@@ -1,6 +1,6 @@
 # Gwenlake
 
-Since 2021, Gwenlake has been helping organizations by operationalizing AI, machine learning, data analytics. The research
+Since 2021, Gwenlake has been helping organizations by operationalizing AI, machine learning and data analytics. The research
 team is focused on building state-of-the-art AI Models for customers and for internal use. 
 
 ## Join us
